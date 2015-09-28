@@ -1,6 +1,6 @@
 Name     : golang-github-lib-pq
 Version  : 1.0
-Release  : 1
+Release  : 2
 URL      : https://github.com/lib/pq/archive/go1.0-cutoff.tar.gz
 Source0  : https://github.com/lib/pq/archive/go1.0-cutoff.tar.gz
 Summary  : No detailed summary available
